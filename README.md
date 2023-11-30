@@ -1,4 +1,4 @@
 - I'm Ethereumcel
-- Self-taught Smart Contract engineer
+- Self-taught Smart Contract dev
 - Interested in using blockchain to build tools for financial democratization and transparency, censorship-resistant media, and personal privacy.
-- Working on building skills in JS, Rust, Eth security, DeFi all around.
+- Working on building skills in JS, Rust, ETH security, and DeFi all around.
